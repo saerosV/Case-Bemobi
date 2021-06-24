@@ -1,7 +1,6 @@
 # Importação da library pathlib, para lidar com diretórios e caminhos (paths).
 from pathlib import Path
 
-#!
 # Prompt para pedir ao usuário, o caminho absoluto onde o arquivo se encontra. 
 input_file_path = Path(input("Enter the file path (absolute): "))
 
@@ -78,7 +77,8 @@ output_file_name = input(
 # Arquivo a ser salvo.
 file_to_save = output_file_path / output_file_name
 
-# With statement, que cria o novo arquivo, com os dados dos países.
+
+# With statement, que cria o novo arquivo com os dados dos países.
 with open(file_to_save, "w") as file:
     file.writelines([country_data("55"),
                      country_data("56"),
