@@ -1,10 +1,12 @@
 # Importação da library pathlib, para lidar com diretórios e caminhos (paths).
 from pathlib import Path
 
-# Prompt para pedir ao usuário, o caminho absoluto onde o arquivo se encontra. 
+
+# Prompt para pedir o caminho absoluto, onde o arquivo se encontra,
+# ao usuário. 
 input_file_path = Path(input("Enter the file path (absolute): "))
 
-# Prompt para pedir ao usuário o nome do arquivo que deseja utilizar.
+# Prompt para pedir o nome do arquivo que deseja utilizar, ao usuário.
 input_file_name = input("Enter file name: ")
 
 # Arquivo e o seu caminho absoluto.
