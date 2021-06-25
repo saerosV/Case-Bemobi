@@ -12,6 +12,10 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 ### Pré-requisitos
 `Python 3.9`
 
+## Observações:
+* O script utiliza-se de arquivos `.txt`.
+* Utilize-se de caminhos absolutos de arquivos (absolute file paths),           para usar o script
+
 ### Execução
 
 #### 1 - Clonar o projeto
