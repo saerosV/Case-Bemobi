@@ -30,14 +30,18 @@ cd Case
 `/path/to/file/`
 
 Se quiser usar os arquivos de testagem presentes na pasta Case, utilize:
+
 `.`
 
 ##### Inserir o nome do arquivo a ser utilizado
 `file_name.txt`
 
 Arquivos de testagem incluídos:
+
 `test_file1.txt`
-ou
+
+e
+
 `test_file2.txt`
 
 ##### Inserir o caminho onde quiser salvar o novo arquivo
