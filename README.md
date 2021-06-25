@@ -18,11 +18,9 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 `git clone https://github.com/saerosV/Case-Bemobi`
 
 #### 2 - Entre no folder do script
-```
-cd Case-Bemobi
-cd Case
+```cd Case-Bemobi
+   cd Case
 ```
 
 #### 3 - Execute o script
 `python -u case_solution.py`
-
