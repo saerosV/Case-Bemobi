@@ -26,7 +26,7 @@ cd Case
 #### 3 - Executar o script
 `python -u case_solution.py`
 
-##### Inserir o caminho do arquivo a ser inserido
+##### Inserir o caminho do arquivo a ser utilizado
 `/path/to/file/`
 
 Se quiser usar os arquivos de testagem presentes na pasta Case, utilize:
