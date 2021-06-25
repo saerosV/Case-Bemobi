@@ -33,7 +33,7 @@ cd Case
 ##### Inserir o caminho do arquivo a ser utilizado
 `/path/to/file/`
 
-Se quiser usar os arquivos de testagem presentes na pasta Case, utilize:
+Se quiser utilizar os arquivos de testagem presentes na pasta Case, digite:
 
 `.`
 
