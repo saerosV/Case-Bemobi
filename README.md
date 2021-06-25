@@ -4,25 +4,25 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 
 ***
 
-# Linguagem utilizada:
+## Linguagem utilizada:
 
 ..* Python
 
-# Como executar o script localmente
+## Como executar o script localmente
 
-## Pré-requisitos
+### Pré-requisitos
 `Python 3.9`
 
-## Execução
+### Execução
 
-### 1 - Clone o projeto
+#### 1 - Clone o projeto
 `git clone https://github.com/saerosV/Case-Bemobi`
 
-### 2 - Entre no folder do script
+#### 2 - Entre no folder do script
 ```
 cd Case-Bemobi
 cd Case 
 ```
-### 3 - Execute o script
+#### 3 - Execute o script
 `python -u case_solution.py`
 
