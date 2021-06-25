@@ -14,7 +14,7 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 
 ### Observações:
 * O script utiliza-se de arquivos `.txt`.
-* Utilize-se de caminhos absolutos de arquivos (absolute file paths),           para usar o script
+* Utilize-se de caminhos absolutos de arquivos (absolute file paths),           para usar o script.
 
 ### Execução
 
