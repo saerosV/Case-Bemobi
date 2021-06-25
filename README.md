@@ -56,3 +56,6 @@ e
 ##### Inserir o nome do arquivo a ser salvo
 
 `example_name.txt`
+
+
+[![GitHub license](https://img.shields.io/github/license/saerosV/Case-Bemobi)](https://github.com/saerosV/Case-Bemobi)
