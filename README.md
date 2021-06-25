@@ -15,6 +15,7 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 ### Observações:
 * O script utiliza-se de arquivos `.txt`.
 * Utilize caminhos absolutos de arquivos (absolute file paths),           para usar o script.
+* A pasta Case contém dois arquivos para testagem do script
 
 ### Execução
 
