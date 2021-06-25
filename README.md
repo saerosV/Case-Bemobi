@@ -14,13 +14,36 @@ Minha solução para um dos cases propostos no processo seletivo da [Bemobi](htt
 
 ### Execução
 
-#### 1 - Clone o projeto
+#### 1 - Clonar o projeto
 `git clone https://github.com/saerosV/Case-Bemobi`
 
-#### 2 - Entre no folder do script
-```cd Case-Bemobi
-   cd Case
+#### 2 - Entrar na pasta do script
+```
+cd Case-Bemobi
+cd Case
 ```
 
-#### 3 - Execute o script
+#### 3 - Executar o script
 `python -u case_solution.py`
+
+##### Inserir o caminho do arquivo a ser inserido
+`/path/to/file/`
+
+Se quiser usar os arquivos de testagem presentes na pasta Case, utilize:
+`.`
+
+##### Inserir o nome do arquivo a ser utilizado
+`file_name.txt`
+
+Arquivos de testagem incluídos:
+`test_file1.txt`
+ou
+`test_file2.txt`
+
+##### Inserir o caminho onde quiser salvar o novo arquivo
+
+`path/to_some/other_file`
+
+##### Inserir o nome do arquivo a ser salvo
+
+`example_name.txt`
